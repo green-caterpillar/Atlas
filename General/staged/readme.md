@@ -1,0 +1,1 @@
+This folder contains all of your staged files for the project General

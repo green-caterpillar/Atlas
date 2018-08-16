@@ -1,0 +1,1 @@
+This folder contains all of your unstaged files for the project General
